@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 main이 수정함
+=======
+Qoopkite가 수정함
+>>>>>>> Qoopkite
